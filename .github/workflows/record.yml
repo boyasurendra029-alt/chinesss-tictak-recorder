@@ -41,10 +41,10 @@ jobs:
           # No placeholder text — every line here becomes a live monitor
           # thread, so a fake line = a broken thread spamming errors.
           cat << 'EOF' > DouyinLiveRecorder/config/URL_config.ini
-          https://v.douyin.com/rbVUB9l1XV4/
-          https://v.douyin.com/DjzrpyZtUkk/
-          https://v.douyin.com/mqDH0krjkkg/
-          https://v.douyin.com/oSECjkWNvmI/
+          https://v.douyin.com/IEGG3ZhEt0c/ 
+          https://v.douyin.com/MUac5MJ9JdQ/
+          https://v.douyin.com/BawMukHe4fo/
+          https://v.douyin.com/tAi-ZWDjL4o/
           EOF
 
       - name: Pro Smart Recorder (Auto-Stop & No Empty Waits)
